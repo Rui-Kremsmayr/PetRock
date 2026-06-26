@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a53455bf283d244d9887662da9f7b5c, type: 3}
+  m_Name: Whistle
+  m_EditorClassIdentifier: Assembly-CSharp::SoundInfo
+  _clips:
+  - {fileID: 8300000, guid: 02bbb44ed2575ce489087cc64aeae62f, type: 3}
+  _mixerGroup: {fileID: -5253204651604946991, guid: de0e0bae7b1ba2547b18efe9ce247a50, type: 2}
+  _volume: 0.8
+  _minMaxPitch: {x: 0.9, y: 1.1}
+  _is3D: 0
+  _loop: 0
